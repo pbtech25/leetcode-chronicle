@@ -2,7 +2,7 @@
 
 ## 🎯 New Year Challenge
 
-As part of my **New Year challenge**, I’ve committed to maintaining a **365-days-long streak** of solving the LeetCode Problem of the Day. This will help me stay disciplined and improve my problem-solving skills over the course of 2025.
+As part of my **New Year challenge** 🎯, I’ve committed to maintaining a **365-days-long streak** 📅 of solving the LeetCode daily Coding Challenge. This will help me stay disciplined 💪 and improve my problem-solving skills over the course of 2025 🚀.
 
 Welcome to my repository where I post my daily solutions for the LeetCode Daily Coding Challenge Problems!  
 I solve and push a new problem daily to maintain a streak, track my progress, and continuously improve my problem-solving and coding skills.
