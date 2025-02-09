@@ -30,4 +30,4 @@ Feel free to explore or contribute! If you find any issues with the solutions or
 
 ## 📅 Streak Tracker
 
-Currently maintaining a streak of **39** days.
+Currently maintaining a streaof **40** days.
